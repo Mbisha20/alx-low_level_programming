@@ -2,7 +2,7 @@
 #include <math.h>
 
 /**
- * main - finds and prints the largest 
+ * main - finds and prints the largest
  *  new line
  * Return: Always 0
  */
