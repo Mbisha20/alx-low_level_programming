@@ -4,10 +4,11 @@
  * @a: integer to swap
  * @b: integer to swap
  */
-
-void swap_int(int *a, int *b);
+void swap_int(int *a, int *b)
 {
-	int k = *a;
+	int m;
+
+	m = *a;
 	*a = *b;
-	k - *b
+	*b = m;
 }
